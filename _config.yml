@@ -15,7 +15,10 @@ exclude:
   - README.md
   - LICENSE
   - /vendor/
-  
+
+# _config.yml
+logo: "/assets/images/familaru-logo.png"
+
 # Minimal Mistakes settings
 # see https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for details
 author:
