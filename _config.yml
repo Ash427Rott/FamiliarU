@@ -1,0 +1,25 @@
+title: "FamiliarU"
+description: "An AI Assitive Device for People with Prosopagnosia."
+# Important: This points your site to use Minimal Mistakes as a remote theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# If you want to enable some features, you'll need these plugins:
+plugins:
+  - jekyll-include-cache
+
+# Optional but recommended:
+# Exclude these from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - /vendor/
+  
+# Minimal Mistakes settings
+# see https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for details
+author:
+  name: "Ashley Rotton"
+  avatar: "/assets/images/FamiliarU logo.png" # or remove if you don't have an avatar yet
+
+# Site navigation or custom settings can go here...
