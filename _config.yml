@@ -20,6 +20,6 @@ exclude:
 # see https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for details
 author:
   name: "Ashley Rotton"
-  avatar: "/assets/images/FamiliarU logo.png" # or remove if you don't have an avatar yet
+  avatar: "assets/images/FamiliarU logo.png" # or remove if you don't have an avatar yet
 
 # Site navigation or custom settings can go here...
